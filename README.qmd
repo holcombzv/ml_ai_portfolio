@@ -1,0 +1,7 @@
+## Zach Holcomb AI/ML Project Portfolio
+
+##### Banco Federal de Financas Marketing Campain Analysis
+
+Me and my team were asked to evaluate the effectiveness of our client's marketing campaign to get customers to subscribe to a term deposit. We were also tasked with creating a decision tree ML model to predict which customers were most likely to subscribe.
+
+Using our analasys and model, we reduced the call list size by 30% without compromising subscription rates, optimizing resource allocation. We also provided 3 key trends to act on to further optimize their strategy.
