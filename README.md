@@ -4,14 +4,14 @@ toc-title: Table of contents
 
 ## Zach Holcomb AI/ML Project Portfolio
 
-##### Article Fact Checking
+##### [Article Fact Checking](https://github.com/holcombzv/ml_ai_portfolio/tree/main/fact_checking)
 
 As a personal project, I created a recurrant neural network from scratch
 that can predict whether a news article contains real or fake news. I
 achieved an accuracy of 97.5%. Methods used include data formatting and
 tokenization, long short-term memory, and dropout layers.
 
-##### Road Sign Recognition
+##### [Road Sign Recognition](https://github.com/holcombzv/ml_ai_portfolio/tree/main/road_signs)
 
 My contributions to this project include training a neural network to
 recognize German road signs using transfer learning, convolutional
@@ -20,7 +20,7 @@ layers, and data augmentation.
 The model achieved an accuracy of 96%, a great start for use in self
 driving cars.
 
-##### Banco Federal de Financas Marketing Campain Analysis
+##### [Banco Federal de Financas Marketing Campain Analysis](https://github.com/holcombzv/ml_ai_portfolio/tree/main/banco_federal_marketing)
 
 Me and my team were asked to evaluate the effectiveness of our client's
 marketing campaign to get customers to subscribe to a term deposit. We
@@ -32,7 +32,7 @@ the call list size by 30% without compromising subscription rates,
 optimizing resource allocation. We also provided 3 key trends to act on
 to further optimize their strategy.
 
-##### Housing Prices Prediction
+##### [Housing Prices Prediction](https://github.com/holcombzv/ml_ai_portfolio/tree/main/home_prices)
 
 As part of a team, I created a random forest model that predicts the
 price of a home in Seattle, WA, using features such as location,
@@ -44,7 +44,7 @@ professionals would be up to 8-12 hours weekly with significant
 potential to increase profitability by targeting high-value properties
 effectively.
 
-##### Text Generation
+##### [Text Generation](https://github.com/holcombzv/ml_ai_portfolio/tree/main/text_generation)
 
 Building off of code we recieved from a previous team, my team and I
 built a model to generate text replicating the style of various popular
