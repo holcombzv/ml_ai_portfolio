@@ -1,0 +1,7 @@
+tensorflow-cpu==2.18.0
+huggingface_hub>=0.17.2
+numpy
+pandas
+bs4
+urllib3
+streamlit
