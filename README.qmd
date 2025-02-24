@@ -2,7 +2,7 @@
 
 ##### [Article Fact Checking](https://github.com/holcombzv/ml_ai_portfolio/tree/main/fact_checking)
 
-As a personal project, I created a recurrant neural network from scratch that can predict whether a news article contains real or fake news. I achieved an accuracy of 97.5%. Methods used include data formatting and tokenization, long short-term memory, and dropout layers.
+As a personal project, I created a recurrant neural network from scratch that can predict whether a news article contains real or fake news. I achieved an accuracy of 97.5%. Methods used include data formatting and tokenization, long short-term memory, and dropout layers. I then deployed the model on a prototype [Hugging Face Spaces web app](https://huggingface.co/spaces/holcombzv/fact_checker_streamlit).
 
 ##### [Road Sign Recognition](https://github.com/holcombzv/ml_ai_portfolio/tree/main/road_signs)
 

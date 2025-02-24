@@ -1,6 +1,3 @@
----
-toc-title: Table of contents
----
 
 ## Zach Holcomb AI/ML Project Portfolio
 
@@ -9,7 +6,9 @@ toc-title: Table of contents
 As a personal project, I created a recurrant neural network from scratch
 that can predict whether a news article contains real or fake news. I
 achieved an accuracy of 97.5%. Methods used include data formatting and
-tokenization, long short-term memory, and dropout layers.
+tokenization, long short-term memory, and dropout layers. I then
+deployed the model on a prototype [Hugging Face Spaces web
+app](https://huggingface.co/spaces/holcombzv/fact_checker_streamlit).
 
 ##### [Road Sign Recognition](https://github.com/holcombzv/ml_ai_portfolio/tree/main/road_signs)
 
@@ -22,7 +21,7 @@ driving cars.
 
 ##### [Banco Federal de Financas Marketing Campain Analysis](https://github.com/holcombzv/ml_ai_portfolio/tree/main/banco_federal_marketing)
 
-Me and my team were asked to evaluate the effectiveness of our client's
+Me and my team were asked to evaluate the effectiveness of our client’s
 marketing campaign to get customers to subscribe to a term deposit. We
 were also tasked with creating a decision tree ML model to predict which
 customers were most likely to subscribe.
