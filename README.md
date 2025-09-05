@@ -1,7 +1,13 @@
 
 ## Zach Holcomb AI/ML Project Portfolio
 
-##### [Article Fact Checking](https://github.com/holcombzv/ml_ai_portfolio/tree/main/fact_checking)
+##### [Business Development Dashboard](https://github.com/holcombzv/ml_ai_portfolio/tree/main/contract_analysis_llm_dashboard)
+
+As an intern at Geeks and Nerds Corp., I developed several scripts to process government contract opportunity data for use in a dashboard-style report for their buisiness development department. The data pulled from a paid government contract API service was augmented with outputs from several LLM-based scripts to help GaN find more contracts that fit their capabilities. 
+
+The final report gave a granular view of the most relevant contracts in relation to each other as well as overviews of current and emerging market areas that GaN was looking to expand their capabilities to.
+
+##### [Article Fact Checking AI](https://github.com/holcombzv/ml_ai_portfolio/tree/main/fact_checking)
 
 As a personal project, I created a recurrant neural network from scratch
 that can predict whether a news article contains real or fake news. I
@@ -9,6 +15,14 @@ achieved an accuracy of 97.5%. Methods used include data formatting and
 tokenization, long short-term memory, and dropout layers. I then
 deployed the model on a prototype [Hugging Face Spaces web
 app](https://huggingface.co/spaces/holcombzv/fact_checker_streamlit).
+
+##### [News Literacy API and Extension](https://github.com/holcombzv/ml_ai_portfolio/tree/main/news_literacy_api)
+
+Taking the above Fact Checking AI project further, I developed an API
+for the model. It is accessible through the Chrome extension found in
+the main folder. This is still a work in progress. Planned features
+are an updated model using transformers instead of RNNs, an LLM Q&A
+chat with RAG embeddings for articles, and an updated user interface.
 
 ##### [Road Sign Recognition](https://github.com/holcombzv/ml_ai_portfolio/tree/main/road_signs)
 
